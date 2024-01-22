@@ -18,4 +18,4 @@ function getDay(){
     text += "Day";
   }
   
-  document.getElementById("output_box").innerHTML = text;
+  document.getElementById("output_box").innerHTML = "text";
